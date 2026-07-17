@@ -1,15 +1,23 @@
-# 👋 你好，我是 @awanglilong
+# 👋 你好，我是 awanglilong
 
-- 👀 我对 **人工智能、Agent** 充满热情。
-- 🌱 目前正在深入学习 **Agent 和 人工智能算法**，希望写出更高效的系统代码。
-- 💞️ 非常期待参与 **有意思的开源项目**，尤其是在可观测性或边缘计算领域。
-- 📫 联系我：**awanglilong@126.com**（替换为你的邮箱）或通过我的 GitHub Discussions。
-- 🧩 业余时间喜欢折腾 Homelab、写技术博客、打羽毛球。
-- 💡 座右铭：**Talk is cheap. Show me the logs.**
+一名热爱 **AI Agent** 开发的工程师，喜欢把前沿算法变成真正能跑、能用的系统。
 
----
+- 🤖 **我的兴趣**  
+  对智能体自主决策、多智能体协作以及大模型落地应用充满热情，尤其关注如何让 AI 更可靠、更高效地解决实际问题。
 
-<!---
-awanglilong/awanglilong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 **当前学习**  
+  正在系统学习强化学习与各类 Agent 框架（如 LangChain、AutoGen 等），同时钻研底层算法优化，希望写出既聪明又轻量的智能系统代码。
+
+- 🤝 **协作期待**  
+  非常愿意参与有意思的开源项目。
+
+- 📫 **联系我**  
+  邮箱：awanglilong@126.com（欢迎邮件交流）  
+  也欢迎在 GitHub 上提 Issue 或通过 Discussions 一起讨论。
+
+- 🧩 **业余生活**  
+  喜欢折腾 Homelab、写技术博客（分享踩坑与成长）、打羽毛球——保持身体和头脑都在线。
+
+- 💡 **座右铭**  
+  **Talk is cheap. Show me the logs.**  
+  （毕竟，日志比空话诚实多了 😄）
